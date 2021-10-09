@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+  font-size: 16px;
+}
+
+.log {
+  font-size: 14px;
+  margin: 10px;
+}
